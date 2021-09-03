@@ -15,7 +15,7 @@ Syntax highlighted code block
 
 - The class pace is comfortable enough to learn and practice without much stress
 - The homework is very detailed with its instructions, making it easy to follow 
-- The TA's are very helpful 
+- The TA's are very helpful and explain the lessons thoroughly 
 
 1. Numbered
 2. List
